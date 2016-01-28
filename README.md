@@ -1,2 +1,4 @@
 # hello
-hello_world_program
+
+Hi github !my first repository :)
+
